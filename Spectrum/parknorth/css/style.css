@@ -7,11 +7,11 @@
  }
 
 .box1{
-  height:300px;
-  width:300px;
-  display:flex;
-  flex-direction:column;
-  align-items:center;
+  height:250px;
+  width:250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   margin-top: 100px;
 }
 
@@ -38,7 +38,7 @@ img{
   }
 }
 
-@media screen and (min-width: 480px) {
+@media white-space-collapse:;reen and (min-width: 480px) {
   .page::before {
     content: "480px";
     color: maroon;
@@ -58,7 +58,7 @@ img{
    align-items: center;
 }
   .box1{
-    flex-basis:300px;
+    flex-basis:250px;
   }
 }
 
@@ -74,7 +74,7 @@ img{
   justify-content: space-between;;
 }
 .box1{
-  flex-basis:250px;
+  flex-basis:200px;
 
 }
 
